@@ -1,1 +1,1 @@
-About Linux
+About Debian
